@@ -8,6 +8,7 @@ Real, running home infrastructure published as code. It is declarative and CI-te
 
 <p align="center">
 <a href="https://lanbat.github.io/"><b>lanbat.github.io</b></a> ·
+<a href="https://github.com/lanbat/nixconf/discussions">Discussions</a> ·
 <a href="https://web.libera.chat/#lanbat">#lanbat on Libera.Chat</a> ·
 MIT licensed
 </p>
